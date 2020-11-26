@@ -41,7 +41,7 @@ Ratio of Women vs Men living in Nursing Home is 7:3
 From our analysis, we strongly believe that nursing homes in some states with greater populations are crowded.
 If the nursing home needs increase by 5% then the already crowded Nursing Homes are not equipped to provide the care our seniors require. Not to mention if another pandemic like the one we are facing now strikes again.
 In the current situation we see that the nursing homes with more people show more deaths due to COVID than the ones with fewer residents.
-In Nursing Homes across US, an average of 80% beds are occupied, leaving shortage of beds if needed (also if there is a wave 2) 
+- In Nursing Homes across US, an average of 80% beds are occupied, leaving shortage of beds if there is will be a second wave of the pandemic. 
 
 
 

@@ -2,10 +2,10 @@
 Nursing homes provide an alternative residence and healthcare for elderly people who need medical care which cannot be given at home, but don't need to be hospitalized. People in nursing homes across US were greatly affected during the corona virus pandemic. The objective of this project is to study Nursing Homes across United States, then focus on one of the top ten states.
 
 ### Data Sources
-https://data.medicare.gov/data/nursing-home-compare?sort=alpha&tag=star%20ratings
-https://www.health.pa.gov/topics/HealthStatistics/HealthFacilities/NursingHomeReports/Pages/nursing-home-reports.aspx
-https://data.cms.gov/Special-Programs-Initiatives-COVID-19-Nursing-Home/COVID-19-Nursing-Home-Dataset/s2uc-8wxp/data
-https://www.prb.org/which-us-states-are-the-oldest/
+* https://data.medicare.gov/data/nursing-home-compare?sort=alpha&tag=star%20ratings
+* https://www.health.pa.gov/topics/HealthStatistics/HealthFacilities/NursingHomeReports/Pages/nursing-home-reports.aspx
+* https://data.cms.gov/Special-Programs-Initiatives-COVID-19-Nursing-Home/COVID-19-Nursing-Home-Dataset/s2uc-8wxp/data
+* https://www.prb.org/which-us-states-are-the-oldest/
 
 ### Bash Installations required
 * Python version 3.6

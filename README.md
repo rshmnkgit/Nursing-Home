@@ -36,13 +36,6 @@ Other notebooks
 
     
 ### Predictions & Conclusion
-- As we age, daily activities tend to become more challenging, especially if chronic health conditions like diabetes, arthritis are also present. 
-Based on Medicaid & Medicare services report, in US 33.8% of residents in Nursing Homes were 85 to 94 years old, 26.4% were 75 to 84 years old and 16.5% were 65 to 74 years old.
+- As we age, daily activities tend to become more challenging, especially if chronic health conditions like diabetes, arthritis are also present. Based on Medicaid & Medicare services report, in US 33.8% of residents in Nursing Homes were 85 to 94 years old, 26.4% were 75 to 84 years old and 16.5% were 65 to 74 years old.
 Ratio of Women vs Men living in Nursing Home is 7:3
-- From our analysis, we strongly believe that nursing homes in some states with greater populations are crowded.
-If the nursing home needs increase by 5% then the already crowded Nursing Homes are not equipped to provide the care our seniors require. Not to mention if another pandemic like the one we are facing now strikes again.
-In the current situation we see that the nursing homes with more people show more deaths due to COVID than the ones with fewer residents.
-In Nursing Homes across US, an average of 80% beds are occupied, leaving shortage of beds if there is will be a second wave of the pandemic. 
-
-
-
+- From our analysis, we strongly believe that nursing homes in some states with greater populations are crowded. If the nursing home needs increase by 5% then the already crowded Nursing Homes are not equipped to provide the care our seniors require. Not to mention if another pandemic like the one we are facing now strikes again. In the current situation we see that the nursing homes with more people show more deaths due to COVID than the ones with fewer residents. In Nursing Homes across US, an average of 80% beds are occupied, leaving shortage of beds if there is will be a second wave of the pandemic. 
